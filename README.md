@@ -16,7 +16,7 @@ Python application for extracting data from the Mintaka REST API, converting the
 ## Project Structure
 
 ```text
-mintaka_loader/
+NIWAMintakaDataDownload/
 │
 ├── config/
 │   └── config.yaml.example
