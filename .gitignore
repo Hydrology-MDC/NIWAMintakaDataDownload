@@ -1,0 +1,35 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Output files
+output/
+
+# Runtime state
+state/state.json
+
+# Local configuration
+config/config.yaml
+
+# Local other files
+mintaka_api_credentials.txt
+archive/
+
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store

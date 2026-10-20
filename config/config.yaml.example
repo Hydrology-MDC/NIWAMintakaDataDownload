@@ -1,0 +1,27 @@
+api:
+  base_url: "https://mintaka.niwa.co.nz/rest/api"
+  api_credential: "mintaka_api"
+
+folders:
+  raw: "output/raw"
+  csv: "output/csv"
+
+state:
+  file: "state/last_run.json"
+
+logging:
+  file: "logs/NIWA_Mintaka_Climate.log"
+  level: "INFO"
+
+products:
+  - product_id: 123456 
+    enabled: true
+    initial_start_date: "2021-01-01T00:00:00Z"
+
+  - product_id: 456789
+    enabled: true
+    initial_start_date: "2021-01-01T00:00:00Z"
+
+#  - product_id: 3116539
+#    enabled: false
+#	 initial_start_date: "2021-01-01T00:00:00Z"
