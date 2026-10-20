@@ -154,7 +154,7 @@ Configure:
 ### Program/script
 
 ```text
-D:\mintaka_loader\.venv\Scripts\python.exe
+<Project Folder>\.venv\Scripts\python.exe
 ```
 
 ### Add arguments
@@ -166,7 +166,7 @@ run.py
 ### Start in
 
 ```text
-D:\mintaka_loader
+<Project Folder>
 ```
 
 Ensure the scheduled task runs under the same Windows account used to store the Keyring credentials.
