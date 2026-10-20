@@ -52,7 +52,7 @@ NIWAMintakaDataDownload/
 ### Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Hydrology-MDC/NIWAMintakaDataDownload.git
 cd NIWAMintakaDataDownload
 ```
 
