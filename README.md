@@ -229,7 +229,7 @@ pip install -r requirements.txt
 
 ---
 
-## Authors
+## Authors / Ideas
 Nandakumar Thachapilly | 
 Environmental Data Analyst | 
 Marlborough District Council
@@ -237,3 +237,8 @@ Marlborough District Council
 Emma Chibnall | 
 Principal Environmental Systems & Data Analyst | 
 Marlborough District Council
+
+Jon Marks |
+Senior Analyst |
+Greater Wellington
+
